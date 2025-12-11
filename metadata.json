@@ -1,0 +1,5 @@
+{
+  "name": "Global ETF Pulse",
+  "description": "A lightweight, real-time dashboard for global ETF rankings, volume tracking, and AI-powered market analysis.",
+  "requestFramePermissions": []
+}
